@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+welcome to this website
 
 You can use the [editor on GitHub](https://github.com/ironman3400/happy-teachers-day-sir/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
